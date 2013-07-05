@@ -1,0 +1,2 @@
+#First steps  
+Going to make this a jQuery plugin eventually. Its' final scope will be to manipulate a variety of iframes so you can style facebook iframes, twitter, ect.. Also, want to make it fully custimizible and testable through DI.
